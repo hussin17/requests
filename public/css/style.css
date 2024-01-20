@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.requests {
+    width: 45%;
+    position: absolute;
+    top: 7%;
+    right: 27%;
+}
+
+.requests form {
+    padding: 40px;
+    border-radius: 1pc;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}

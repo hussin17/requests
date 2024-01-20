@@ -1,0 +1,30 @@
+.images {
+background-color: blue;
+  }
+
+  .images {
+    display: inline-block;
+    /* ... */
+  }
+  .images {
+    display: inline-block;
+    width: 100%;
+    /* ... */
+  }
+  .images {
+    display: inline-block;
+    width: 100%;
+    margin: 10px;
+    /* ... */
+  }
+  .images li {
+    display: inline-block;
+    width: 100px;
+    /* ... */
+  }
+  .images li {
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+    /* ... */
+  }
